@@ -11,6 +11,7 @@
 		2380A23029509BB900457B6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2380A22F29509BB900457B6E /* ContentView.swift */; };
 		2380A23229509BBB00457B6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2380A23129509BBB00457B6E /* Assets.xcassets */; };
 		2380A23529509BBB00457B6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2380A23429509BBB00457B6E /* Preview Assets.xcassets */; };
+		2380A23D2951879300457B6E /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2380A23C2951879300457B6E /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		2380A23129509BBB00457B6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2380A23429509BBB00457B6E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2380A23629509BBB00457B6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2380A23C2951879300457B6E /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				2380A22D29509BB900457B6E /* CarringtonCardApp.swift */,
 				2380A22F29509BB900457B6E /* ContentView.swift */,
+				2380A23C2951879300457B6E /* InfoView.swift */,
 				2380A23129509BBB00457B6E /* Assets.xcassets */,
 				2380A23629509BBB00457B6E /* Info.plist */,
 				2380A23329509BBB00457B6E /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2380A23029509BB900457B6E /* ContentView.swift in Sources */,
+				2380A23D2951879300457B6E /* InfoView.swift in Sources */,
 				2380A22E29509BB900457B6E /* CarringtonCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
